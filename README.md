@@ -3,21 +3,21 @@
 
 
 
-- 👋 Hi/Olá, I’m/eu sou o  @Marcelusvictor
+> 👋 Hi/Olá, I’m/eu sou o  @Marcelusvictor
 -Sou de Porto Alegre
 🇧🇷
-- 👀 I’m interested in ADS
-- Cursando Análise e desenvolvimento de sistemas
-- 
-- 🌱 I’m currently learning PENTEST
-- Aprendendo sobre Ciber security, área que quero me especializar
-- Cursando introdução ao Pentest Profissional
-- 
-- 💞️ I’m looking to collaborate on PROJECTS
-- Proteção de dados
-- 
-- 📫 How to reach me , JUST TEXT ME
-- Meu Linkedin que esta disponivel para contatos 
+> 👀 I’m interested in ADS
+> Cursando Análise e desenvolvimento de sistemas
+ 
+> 🌱 I’m currently learning PENTEST
+> Aprendendo sobre Ciber security, área que quero me especializar
+> Cursando introdução ao Pentest Profissional
+ 
+> 💞️ I’m looking to collaborate on PROJECTS
+> Proteção de dados
+ 
+> 📫 How to reach me , JUST TEXT ME
+> Meu Linkedin que esta disponivel para contatos 
 
 <div align="center">
   <a href="https://github.com/Marcelusvictor">
