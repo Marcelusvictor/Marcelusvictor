@@ -43,7 +43,7 @@
      
      
  
-     ![Snake animation](https://github.com/Marcelusvictor/Marcelusvictor/blob/output/github-contribution-grid-snake.svg)
+     ![snake gif](https://github.com/Marcelusvictor/Marcelusvictor/blob/output/github-contribution-grid-snake.svg)
 
 
 
