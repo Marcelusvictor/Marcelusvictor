@@ -23,16 +23,13 @@
   
  ## 
   
-  <div> 
+   <div> 
      <a href="https://www.linkedin.com/in/marcelus-victor-517a681b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://discord.gg/MRC6#3343" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
      <a href = "marceluslaportavictor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     </div>
+  </div>
      
-     
-     
- 
-     ![snake gif](https://github.com/Marcelusvictor/Marcelusvictor/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/Marcelusvictor/Marcelusvictor/blob/output/github-contribution-grid-snake.svg)
 
 
 
