@@ -40,7 +40,7 @@
      <a href="https://discord.gg/MRC6#3343" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
      </div>
  
-     ![Snake animation](https://github.com/Marcelusvictor/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/Marcelusvictor/Marcelusvictor/blob/output/github-contribution-grid-snake.svg)
 
 
 
