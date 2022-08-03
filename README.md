@@ -1,24 +1,11 @@
 ![teahub io-cybersecurity-wallpaper-1762869](https://user-images.githubusercontent.com/96080133/155764391-8cfad30f-904d-4064-88bb-66db764b31af.jpg)
 
-
-
-
-- 👋 Hi/Olá, I’m/eu sou o  @Marcelusvictor
-- Sou de Porto Alegre
-🇧🇷
-- 👀 I’m interested in ADS
-- Cursando Análise e desenvolvimento de sistemas
- 
-- 🌱 I’m currently learning PENTEST
-- Aprendendo sobre Ciber security, área que quero me especializar
-- Cursando introdução ao Pentest Profissional
- 
-- 💞️ I’m looking to collaborate on PROJECTS
--> Proteção de dados
- 
-- 📫 How to reach me , JUST TEXT ME
-- Meu Linkedin que esta disponivel para contatos 
-- ##
+<h1> @Marcelusvictor </h1>
+<h3> Sou de Porto Alegre/RS - Brasil </h3>
+<h3> Cursando Análise e desenvolvimento de sistemas </h3>
+<h3> Aprendendo sobre Ciber security </h3>
+<h3> DPCT </H3>
+<h3> Front-end/Back-end </h3>
 
 <div align="center">
   <a href="https://github.com/Marcelusvictor">
@@ -26,7 +13,8 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelusvictor&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
+ ##
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
