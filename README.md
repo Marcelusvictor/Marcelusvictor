@@ -6,8 +6,6 @@
 <h1> @Marcelusvictor </h1>
 <h3> Sou de Porto Alegre/RS - Brasil </h3>
 <h3> Cursando Análise e desenvolvimento de sistemas </h3>
-<h3> Aprendendo sobre Ciber security </h3>
-<h3> DPCT </H3>
 <h3> Front-end/Back-end </h3>
 
 <div align="center">
