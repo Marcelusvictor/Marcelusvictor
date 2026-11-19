@@ -1,59 +1,153 @@
-![teahub io-cybersecurity-wallpaper-1762869](https://user-images.githubusercontent.com/96080133/155764391-8cfad30f-904d-4064-88bb-66db764b31af.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Marcelus+;+I'm+33+years+old+;I+was+born+in+Porto+Alegre+RS;+Studying+Analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/96080133/155764391-8cfad30f-904d-4064-88bb-66db764b31af.jpg"
+    width="100%"
+    alt="Cybersecurity technology banner"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=28&center=true&vCenter=true&width=900&lines=IT+Infrastructure;Cybersecurity+%26+Security+Monitoring;Cloud+%26+Systems+Administration;Building+Practical+Security+Labs"
+    alt="Professional introduction"
+  />
+</p>
+
+<h1 align="center">Hi, I'm Marcelus Victor 👋</h1>
+
+<h3 align="center">
+  IT Infrastructure | Cybersecurity | Cloud
+</h3>
+
+<p align="center">
+  Porto Alegre, Brazil
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an IT professional with experience in IT infrastructure,
+data center operations, systems administration and virtualization.
+
+My background includes infrastructure implementation,
+network security, firewall administration and infrastructure monitoring.
+
+I'm currently expanding my practical skills in cybersecurity,
+security operations (SOC), threat detection and automation through
+hands-on labs and technical projects.
+
+- 🎓 Degree in Systems Analysis and Development
+- 📚 Postgraduate studies in Networks and Cybersecurity (in progress)
+- 🛡️ Professional interests: Cybersecurity and Security Operations
+- ☁️ Professional interests: Cloud Infrastructure and Security
+- 🔬 Focused on practical learning and technical documentation
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Infrastructure & Virtualization
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+</p>
+
+### Network & Security
+
+<p>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/AlienVault_OSSIM-263746?style=for-the-badge&logoColor=white" alt="AlienVault OSSIM" />
+</p>
 
 
-<h1> @Marcelusvictor </h1>
-<h3> Sou de Porto Alegre/RS - Brasil </h3>
-<h3> Cursando Análise e desenvolvimento de sistemas </h3>
-<h3> Front-end/Back-end </h3>
+### Monitoring & Security Operations
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/AlienVault_OSSIM-263746?style=for-the-badge&logoColor=white" alt="AlienVault OSSIM" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+
+---
+
+## 🔬 Practical Labs & Projects
+
+### 01. Worm in the Network — Security Lab
+
+An educational lab designed to study suspicious network behavior,
+analyze indicators of compromise and explore defensive detection
+techniques in an isolated environment.
+
+**Focus:** Python, network analysis and threat detection.
+
+**Status:** In development.
+
+### 02. SIEM & Threat Detection Lab
+
+A practical project focused on security event collection,
+log analysis, detection rules and incident investigation.
+
+**Focus:** Wazuh, SIEM and security monitoring.
+
+**Status:** Planned.
+
+### 03. Infrastructure Monitoring Lab
+
+A lab focused on monitoring infrastructure availability,
+collecting metrics, configuring alerts and investigating issues.
+
+**Focus:** Zabbix, Linux and infrastructure operations.
+
+**Status:** Planned.
+
+> Project descriptions and statuses will be updated as each
+> implementation and test is completed.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Marcelusvictor&show_icons=true&theme=highcontrast&hide_border=true"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelusvictor&layout=compact&theme=highcontrast&hide_border=true"
+    alt="Most used programming languages"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcelus-victor-517a681b5">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
   <a href="https://github.com/Marcelusvictor">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcelusvictor&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelusvictor&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
- 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Formando-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Formando -HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Formando-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Formando-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="Formando-MySQL" SRC="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  </div>
-  
- ##
-  
-   <div> 
-     <a href="https://www.linkedin.com/in/marcelus-victor-517a681b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://discord.gg/MRC6#3343" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-     <a href = "mailto: marceluslaportavictor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://t.me/Marc3lu5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  </div>
-     
-  ![snake gif](https://github.com/Marcelusvictor/Marcelusvictor/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcelusvictor}/count.svg" /></p> 
-<br></div>
-  
-  
-  
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
-
-
-
-    
-
-    
-
-    
-
-    
-
-
-
-
+<p align="center">
+  <i>Learning continuously. Building practically. Securing thoughtfully.</i>
+</p>
